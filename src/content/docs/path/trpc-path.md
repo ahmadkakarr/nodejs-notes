@@ -1,0 +1,5 @@
+
+typescript
+nextjs
+react
+tailwind
