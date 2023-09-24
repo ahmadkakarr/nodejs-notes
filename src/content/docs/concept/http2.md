@@ -1,3 +1,8 @@
+---
+title: HTTP 2
+description: A guide in my new Starlight docs site.
+---
+
 ### http2
 stream
 multiplexing
