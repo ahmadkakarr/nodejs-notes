@@ -25,6 +25,10 @@ export default defineConfig({
 					label: 'Frameworks',
 					autogenerate: { directory: 'frameworks' },
 				},
+				{
+					label: 'ORM',
+					autogenerate: { directory: 'orm' },
+				},
 			],
 		}),
 	],

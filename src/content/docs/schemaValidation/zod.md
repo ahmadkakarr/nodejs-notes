@@ -1,6 +1,6 @@
 ---
-title: Bun
-description: A guide in my new Starlight docs site.
+title: Zod
+description: schema validation.
 pagefind: false
 # sidebar:
 #     label: Ranking
